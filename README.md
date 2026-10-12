@@ -23,13 +23,18 @@ Desenvolvido e customizado por **[Rootszera](https://github.com/LuizCorrea-Dev)*
 
 ---
 
-## 📥 Como Instalar no OBS Studio
+## 📥 Download e Instalação
 
+### 1. Baixar a versão mais recente (Release)
+- Acesse a página de lançamentos: **[Releases - v1.0.0](https://github.com/LuizCorrea-Dev/contator-regressivo-obs/releases/latest)**
+- Baixe o arquivo **`timer-obs.lua`** (ou o código fonte em `.zip`).
+
+### 2. Como Instalar no OBS Studio
 1. Abra o seu **OBS Studio**.
 2. No menu superior, clique em **Ferramentas** > **Scripts**.
 3. Na janela de Scripts que se abrir:
    - Clique no ícone de **`+`** (canto inferior esquerdo).
-   - Navegue até a pasta onde este repositório está salvo e selecione o arquivo **`timer-obs.lua`** (ou `advanced-timer.lua`).
+   - Navegue até onde você baixou e selecione o arquivo **`timer-obs.lua`**.
    - Clique em **Abrir**.
 4. O script será carregado imediatamente na lista com o painel de configurações à direita.
 
